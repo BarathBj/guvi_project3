@@ -1,7 +1,7 @@
 %%writefile app.py
 
 
-
+#using google colab to run this project
 
 
 import streamlit as st
